@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wilderbravo
 - 👀 I’m interested in programing 
-- 🌱 I’m currently learning artifical intelligence, mainly python
-- 💞️ I’m looking to collaborate on AI learning
-- 📫 You can contact to me trought tonibravo65@gmail.com 
+- 🌱 I’m passionate for disruptive technologies 
+- 💞️ I would like to collaborate in AI projects
+- 📫 You can contact to me trought tonibravo65@gmail.com or wilderbravoc@gmail.com 
 
 <!---
 wilderbravo/wilderbravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
