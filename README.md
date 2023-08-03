@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wilderbravo
-- 👀 I’m interested in programing 
+- 👀 I’m interested in programing, architecture, design patterns
 - 🌱 I’m passionate for disruptive technologies 
 - 💞️ I would like to collaborate in AI projects
 - 📫 You can contact to me trought tonibravo65@gmail.com or wilderbravoc@gmail.com 
